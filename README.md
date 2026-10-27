@@ -71,7 +71,3 @@ uv run --locked jupyter lab
 ## ⚠️ Academic Integrity
 
 This repository is maintained for personal reference and portfolio purposes. If you are currently taking CPSC 330 at UBC, please adhere to UBC's Academic Integrity guidelines and refrain from directly copying any code or solution files.
-
-```
-
-```
